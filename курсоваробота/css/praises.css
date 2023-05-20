@@ -1,0 +1,119 @@
+
+.text1{
+    margin-left: 113px;
+    margin-top: 137px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text2{
+    margin-top: 10px;
+    margin-left: 113px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+} 
+.table{
+    float: left;
+    margin-left: 109px;
+}
+.grup1{
+    margin-top:258px;
+    margin-left: 120px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.grup2{
+    list-style: decimal;
+    margin-top:58px;
+    margin-left: 130px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.grup3{
+    margin-top:20px;
+    margin-left: 120px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.grup4{
+    margin-top:20px;
+    margin-left: 120px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.grup5{
+    margin-top:25px;
+    margin-left: 543px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.grup6{
+    margin-top:90px;
+    margin-left: 120px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.blackk{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    left: 0px;
+    top: 1525px;
+background: linear-gradient(180deg, #444444 0%, #000000 138.17%);
+}
+/* .text4{
+    position: absolute;
+    left: 60px;
+    top: 40px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
+.comand{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 700;
+    left: 60px;
+    top: 10px;
+}
+.comand1{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    font-weight: 700;
+    left: 1000px;
+    top: 10px;
+}
+.text5{
+    position: absolute;
+    left: 1000px;
+    top: 50px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+} */
+/* темна тема */
+.grup5{
+    color: #c2dbb6;
+}
+.grup1{
+    color: #c2dbb6;
+}
+.grup2{
+    color: #c2dbb6;
+}
+.grup3{
+    color: #c2dbb6;
+}
+.grup4{
+    color: #c2dbb6;
+}
+.grup6{
+    color: #c2dbb6;
+}
